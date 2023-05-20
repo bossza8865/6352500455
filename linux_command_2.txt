@@ -1,0 +1,9 @@
+
+
+1.mkdir FinalExamRos(สร้างDirectory)
+
+2.echo. > CLASS_ROBOT.txt
+
+3.touch ROBOT_CLASS.txt
+>ROBOT_CLASS.txt
+git remote add origin "https://github.com/robot-class/final.git"
